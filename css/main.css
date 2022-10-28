@@ -80,7 +80,7 @@ body {
   color: hsl(0, 0%, 55%);
 }
 /* ===== Section-3 ===== */
-.section-3 .container .section-3-text .col-8 h3 {
+.section-3 .container .section-3-text h3 {
   text-transform: uppercase;
   letter-spacing: 3px;
   font-family: "Alata", sans-serif;
@@ -170,17 +170,17 @@ footer .container .row .footer-list ul li a:hover::before,
 footer .container .row .footer-list ul li a:hover::after {
   width: 50%;
 }
-footer .text-lg-right .social-icons h3 {
+footer .text-lg-right .social-icons p {
   position: relative;
   display: inline-block;
 }
-footer .text-lg-right .social-icons h3 i {
+footer .text-lg-right .social-icons p i {
   color: hsl(0, 0%, 100%);
   font-size: 28px;
   padding: 0px 5px;
   cursor: pointer;
 }
-footer .text-lg-right .social-icons h3::before {
+footer .text-lg-right .social-icons p::before {
   content: "";
   position: absolute;
   width: 0;
@@ -190,7 +190,7 @@ footer .text-lg-right .social-icons h3::before {
   right: 50%;
   transition: all 0.5s;
 }
-footer .text-lg-right .social-icons h3::after {
+footer .text-lg-right .social-icons p::after {
   content: "";
   position: absolute;
   width: 0;
@@ -200,8 +200,8 @@ footer .text-lg-right .social-icons h3::after {
   left: 50%;
   transition: all 0.5s;
 }
-footer .text-lg-right .social-icons h3:hover::before,
-footer .text-lg-right .social-icons h3:hover::after {
+footer .text-lg-right .social-icons p:hover::before,
+footer .text-lg-right .social-icons p:hover::after {
   width: 50%;
 }
 footer .text-lg-right p {
