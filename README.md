@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ibrahim-MohamedH.github.io/Loopstudios-landing-page/)
+- Solution URL: [Loopstudios landing page w/ Bootstrap and Jquery](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw/hub/loopstudios-landing-page-w-bootstrap-and-jquery-P8l8Dww_hm)
+- Live Site URL: [Frontend Mentor | Loopstudios landing page](https://ibrahim-mohamedh.github.io/Loopstudios-landing-page/)
 
 ## My process
 
